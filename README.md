@@ -1,5 +1,5 @@
 # Shinning
-React JS based Starlink Trajectory Visualization
+A React JS based Starlink Trajectory Visualization
 
 ● Developed a visualization dashboard using ReactJS and D3 to track satellites in real-time based on geo-location
 
