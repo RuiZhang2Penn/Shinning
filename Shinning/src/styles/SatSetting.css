@@ -1,0 +1,13 @@
+.sat-setting {
+    width: 100%;
+    background-color: #fbfbfb;
+    border: 1px solid #d9d9d9;
+    padding: 30px 60px 0 0;
+    text-align: left;
+}
+
+.show-nearby {
+    display: flex;
+    left: 60px;
+    justify-content: center;
+}

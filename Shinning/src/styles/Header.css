@@ -1,0 +1,21 @@
+.App-logo {
+    height: 28px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.App-header {
+    display: flex;
+    align-items: center;
+    height: 70px;
+    width: 100vw;
+    color: #fff;
+    background-color: #00305C;
+    box-shadow: rgb(220, 220, 220) 0px 2px 10px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px;
+}
